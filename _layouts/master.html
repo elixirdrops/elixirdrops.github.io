@@ -5,7 +5,7 @@
     <title>Elixir Drops - {{ page.title }}</title>
 
     <!-- styles -->
-    <link rel="stylesheet" href="/stylesheets/master.css" type="text/css" media="screen" charset="utf-8" />
+    <link rel="stylesheet" href="/assets/css/master.css" type="text/css" media="screen" charset="utf-8" />
 
     <!-- scripts -->
     <script src="/javascripts/jquery.js" type="text/javascript" charset="utf-8"></script>
@@ -17,22 +17,22 @@
 </head>
 <body>
     
-    <div id='container'>
+    <div class='container'>
 
         <header class="site-header">
             <h1>Elixir Drops</h1>
-            <p>Stuff about elixir...</p>
+
+            <nav class="site-navigation">
+                <ul>
+                    <li><a href='/'>Home</a></li>
+                    <li><a href='/projects.html'>Projects</a></li>
+                    <li><a href='/about.html'>About</a></li>
+                </ul>
+            </nav>
         </header>
         <!-- /site-header -->
 
-        <nav class="site-navigation">
-            <ul>
-                <li><a href='/'>Home</a></li>
-                <li><a href='/blog.html'>Projects</a></li>
-                <li><a href='/about.html'>About</a></li>
-            </ul>
-        </nav>
-        <!-- /site-navigation -->
+        
 
         <section class="site-content">
             {{ content }}
