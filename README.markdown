@@ -1,12 +1,28 @@
-Scott Chacons Blog
+## Elixir Drops
 ==================
 
-This is the Jekyll source for Scott Chacons blog.
+This is the Jekyll source for Elixir Drops.
 
-It was based off of the awesome Michael Bleigh's blog and website, [Mister Bleigh](http://www.mbleigh.com/), and he gets fullcredit for everything that is good looking or impressive about this site.
 
-It makes some nice use of Jekyll's liquid templating system (see blog.html) and uses Javscript to pull information from GitHub for the open-source section.
+## License
 
-You may feel free to re-use any part of the structure, design, and layout of this site; it is all licensed under the MIT License. However, the content of the site (blog posts and page content) is licensed under a Creative Commons Attribution license (you may use it, but must give attribution).
-
-Copyright (c) 2009 Scott Chacon. Rights reserved as indicated above.
+Copyright (c) 2015 Elixir Drops
+ 
+Permission is hereby granted, free of charge, to any person obtaining
+a copy of this software and associated documentation files (the
+"Software"), to deal in the Software without restriction, including
+without limitation the rights to use, copy, modify, merge, publish,
+distribute, sublicense, and/or sell copies of the Software, and to
+permit persons to whom the Software is furnished to do so, subject to
+the following conditions:
+ 
+The above copyright notice and this permission notice shall be
+included in all copies or substantial portions of the Software.
+ 
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
+NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE
+LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
+OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
+WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
